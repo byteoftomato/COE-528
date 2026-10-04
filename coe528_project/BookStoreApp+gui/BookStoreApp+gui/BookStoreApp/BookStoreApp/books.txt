@@ -1,0 +1,4 @@
+Algorithms,100.0
+Networks,500.0
+Differential Calculus,200.0
+Discrete math,150.0
